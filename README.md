@@ -1,10 +1,5 @@
 # [Réalisez une étude de Santé Publique](https://openclassrooms.com/fr/paths/65/projects/145/assignment)
 
-📗 [Notebook - Code réponses](https://github.com/Gladouu/P3/blob/main/P3_01_coderéponses.ipynb)
-
-📗 [Notebook - Code données](https://github.com/Gladouu/P3/blob/main/P3_02_codedonnées.ipynb)
-
-📗 [Notebook - Code requêtes SQL](https://github.com/Gladouu/P3/blob/main/P3_03_coderequetessql.ipynb)
 
 #### Compétences évaluées : 
 
@@ -17,7 +12,17 @@
 
 <br> 
 
-## Mise en situation : 
+## Notebooks :
+
+📗 [Notebook - Code réponses](https://github.com/Gladouu/P3/blob/main/P3_01_coderéponses.ipynb)
+
+📗 [Notebook - Code données](https://github.com/Gladouu/P3/blob/main/P3_02_codedonnées.ipynb)
+
+📗 [Notebook - Code requêtes SQL](https://github.com/Gladouu/P3/blob/main/P3_03_coderequetessql.ipynb)
+
+<br>
+
+## Scénario : 
 
 Vous êtes intégré à une nouvelle équipe de chercheurs de la [Food and Agriculture Organization of the United Nations (FAO)](https://fr.wikipedia.org/wiki/Organisation_des_Nations_unies_pour_l%27alimentation_et_l%27agriculture), l'un des organes qui compose l'ONU et dont l'objectif est d' « aider à construire un monde libéré de la faim ».
 Votre équipe est chargée de réaliser une étude de grande ampleur sur le thème de la sous-nutrition dans le monde.
