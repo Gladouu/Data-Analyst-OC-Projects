@@ -8,11 +8,9 @@
   - Récupérer des données à partir d'une source identifiée
   - Appliquer l'algèbre relationnelle en R ou Python
   - Maîtriser les bases de R ou Python
-  - Effectuer des requêtes complexes en SQL
+  - Effectuer des requêtes complexes en SQL 
 
-<br> 
-
-### Notebooks :
+#### Notebooks :
 
 📗 ***[Notebook - Code réponses](https://github.com/Gladouu/P3/blob/main/P3_01_coderéponses.ipynb)***
 
