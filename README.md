@@ -10,6 +10,8 @@
   - Maîtriser les bases de R ou Python
   - Effectuer des requêtes complexes en SQL
 
+<br> 
+
 ### Notebooks :
 
 📗 ***[Notebook - Code réponses](https://github.com/Gladouu/P3/blob/main/P3_01_coderéponses.ipynb)***
